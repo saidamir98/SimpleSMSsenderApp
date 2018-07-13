@@ -1,0 +1,1 @@
+# Simple GSM MESSAGE sender app in C#
